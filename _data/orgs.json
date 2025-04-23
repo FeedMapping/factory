@@ -414,7 +414,7 @@
     "jsonix",
     "lanyon",
     "wiki",
-    "mediator",
+    "sitemap",
     "wikitemplate"
   ]
 }
@@ -441,7 +441,7 @@
   "is_verified": false,
   "has_organization_projects": true,
   "has_repository_projects": true,
-  "public_repos": 19,
+  "public_repos": 20,
   "public_gists": 0,
   "followers": 0,
   "following": 0,
@@ -453,7 +453,7 @@
   "total_private_repos": 0,
   "owned_private_repos": 0,
   "private_gists": 0,
-  "disk_usage": 6336,
+  "disk_usage": 5,
   "collaborators": 0,
   "billing_email": "admin@tophyips.info",
   "default_repository_permission": "none",
@@ -494,12 +494,12 @@
     "grammar"
   ],
   "key2": [
-    "core",
-    "bulbea",
-    "pedia",
-    "poole",
-    "cards",
-    "bootstrap"
+    "advance",
+    "freqtrade",
+    "ccxt",
+    "superalgos",
+    "indodax",
+    "method"
   ]
 }
 ,
